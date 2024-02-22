@@ -3,7 +3,7 @@ import About from "../components/About";
 // import Footer from "../components/Footer";
 import Header from "../components/Header";
 import React from 'react';
-// import Project from "../components/Project";
+import Project from "../components/Project";
 // import Certificate from "../components/Certificate";
 
 const Home = () =>{
@@ -11,9 +11,10 @@ const Home = () =>{
     <section>
         <Header/>
         <About />
+        <Project />
       {/* <Contact />
       <Footer />
-      <Project />
+      
       <Certificate /> */}
     </section>
   );
