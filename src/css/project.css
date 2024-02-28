@@ -1,3 +1,13 @@
 .project-show{
     display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.project-card{
+    padding: 40px;
+}
+.card{
+    border-color: 50px aqua;
+    box-shadow: 0px 20px 20px 20px  rgba(124, 124, 124, 0.219);
+
 }
